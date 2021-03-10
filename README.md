@@ -1,8 +1,9 @@
 # NODE_formy
-這邊是我要架設一個完整的tweeter翻譯系統目前/n
-會設置在Rep裡/n
-:::info/n
-1. 前端使用: angular js 
-2. 後端使用 node.js 架設 
-3. DBA: 會使用希望使用Bert等演算法
-:::
+這邊是我要架設一個完整的tweeter翻譯系統目前會設置在Rep裡 
+
+## info because  I use hackmd for lot time if hard look  forgive me
+
+1. frontend: angular js 
+2. backen: node.js 
+3. DBA: hope to use bert 
+
